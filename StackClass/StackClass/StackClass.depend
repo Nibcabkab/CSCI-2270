@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1423694543 source:/home/user/Dropbox/Computer Science/CSCI-2270/StackClass/StackClass/main.cpp
+	<iostream>
+	"Stack.h"
+
+1423694736 /home/user/Dropbox/Computer Science/CSCI-2270/StackClass/StackClass/include/Stack.h
+	<iostream>
+
+1423694397 source:/home/user/Dropbox/Computer Science/CSCI-2270/StackClass/StackClass/src/Stack.cpp
+	"Stack.h"
+

@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1429644264 source:/home/rishab/Dropbox/Computer Science/CSCI-2270/Assignment 9/Assignment9/hashtable.cpp
+	<iostream>
+	<string>
+	"hashtable.h"
+
+1429643590 source:/home/rishab/Dropbox/Computer Science/CSCI-2270/Assignment 9/Assignment9/main.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<stdio.h>
+	<stdlib.h>
+	"hashtable.h"
+
+1429496366 /home/rishab/Dropbox/Computer Science/CSCI-2270/Assignment 9/Assignment9/hashtable.h
+
+1429644264 source:/home/user/Dropbox/Computer Science/CSCI-2270/Assignment 9/Assignment9/hashtable.cpp
+	<iostream>
+	<string>
+	"hashtable.h"
+
+1429496366 /home/user/Dropbox/Computer Science/CSCI-2270/Assignment 9/Assignment9/hashtable.h
+
+1429653572 source:/home/user/Dropbox/Computer Science/CSCI-2270/Assignment 9/Assignment9/main.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<stdio.h>
+	<stdlib.h>
+	"hashtable.h"
+

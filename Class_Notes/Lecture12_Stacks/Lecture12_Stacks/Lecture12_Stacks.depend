@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1423513679 source:/home/user/Dropbox/CSCI2270/Spring2015/Lecture12_Stacks/main.cpp
+	<iostream>
+	"stack.h"
+
+1423513557 /home/user/Dropbox/CSCI2270/Spring2015/Lecture12_Stacks/stack.h
+	<iostream>
+
+1423513596 source:/home/user/Dropbox/CSCI2270/Spring2015/Lecture12_Stacks/stack.cpp
+	"stack.h"
+	<iostream>
+

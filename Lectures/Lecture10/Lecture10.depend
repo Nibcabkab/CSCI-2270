@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1423089559 source:c:\users\rishab\dropbox\computer science\csci-2270\lecture10\main.cpp
+	<iostream>
+	"CNode.h"
+
+1423089714 source:c:\users\rishab\dropbox\computer science\csci-2270\lecture10\src\cnode.cpp
+	"CNode.h"
+	<iostream>
+
+1423089038 c:\users\rishab\dropbox\computer science\csci-2270\lecture10\include\cnode.h
+

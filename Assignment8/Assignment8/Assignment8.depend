@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1429008645 source:/home/rishab/Dropbox/Computer Science/CSCI-2270/Assignment 8/Assignment8/main.cpp
+	<iostream>
+	<vector>
+	"Graph.h"
+	<sstream>
+	<fstream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<algorithm>
+
+1429007711 /home/rishab/Dropbox/Computer Science/CSCI-2270/Assignment 8/Assignment8/include/Graph.h
+	<vector>
+	<iostream>
+
+1429008540 source:/home/rishab/Dropbox/Computer Science/CSCI-2270/Assignment 8/Assignment8/src/Graph.cpp
+	"Graph.h"
+	<vector>
+	<iostream>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1423230561 source:/home/user/Dropbox/Computer Science/CSCI-2270/Recitation4/Recitation4/terrible_dynamic_size_array_unsorted.cpp
+	"terrible_dynamic_size_array_unsorted.h"
+	<iostream>
+
+1423175705 /home/user/Dropbox/Computer Science/CSCI-2270/Recitation4/Recitation4/terrible_dynamic_size_array_unsorted.h
+	<iostream>
+
+1423229303 source:/home/user/Dropbox/Computer Science/CSCI-2270/Recitation4/Recitation4/test_int_array.cpp
+	"terrible_dynamic_size_array_unsorted.h"
+

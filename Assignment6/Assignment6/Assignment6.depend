@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1425256684 source:/home/user/Dropbox/Computer Science/CSCI-2270/Assignment 5/Assignment5/Assignment5/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"MovieTree.h"
+
+1425256739 /home/user/Dropbox/Computer Science/CSCI-2270/Assignment 5/Assignment5/Assignment5/include/MovieTree.h
+	<iostream>
+
+1425256958 source:/home/user/Dropbox/Computer Science/CSCI-2270/Assignment 5/Assignment5/Assignment5/src/MovieTree.cpp
+	"MovieTree.h"
+	<sstream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<algorithm>
+
+1425877216 source:/home/user/Dropbox/Computer Science/CSCI-2270/Assignment 6/Assignment6/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"MovieTree.h"
+
+1425865554 /home/user/Dropbox/Computer Science/CSCI-2270/Assignment 6/Assignment6/include/MovieTree.h
+	<iostream>
+	<json/json.h>
+
+1425883097 source:/home/user/Dropbox/Computer Science/CSCI-2270/Assignment 6/Assignment6/src/MovieTree.cpp
+	"MovieTree.h"
+	<sstream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<algorithm>
+	<json/json.h>
+

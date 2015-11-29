@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1423079636 source:/home/user/Dropbox/CSCI2270/Spring2015/Lecture10LinkedListNodeClass/src/CNode.cpp
+	"CNode.h"
+	<iostream>
+
+1423079611 /home/user/Dropbox/CSCI2270/Spring2015/Lecture10LinkedListNodeClass/include/CNode.h
+
+1423079935 source:/home/user/Dropbox/CSCI2270/Spring2015/Lecture10LinkedListNodeClass/main.cpp
+	<iostream>
+	"CNode.h"
+
