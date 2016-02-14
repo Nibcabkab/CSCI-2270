@@ -1,3 +1,3 @@
 
-# CSCI-1300
-Introduction to Computer Science (Experienced) Fall 2014 with Rhonda Hoenigman
+# CSCI-2270
+Data Structures Spring 2015 with Rhonda Hoenigman
